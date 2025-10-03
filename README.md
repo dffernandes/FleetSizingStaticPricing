@@ -1,4 +1,4 @@
-# Instances for [Fleet sizing with price-sensitive customers in Attended Home Delivery]
+# Instances for Fleet sizing with price-sensitive customers in Attended Home Delivery
 
 This repository contains all the problem instances used in the paper:
 
